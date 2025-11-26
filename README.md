@@ -24,7 +24,7 @@ Você pode acessar o protótipo oficial aqui: 🎨 [**Figma do Desafio**](https:
 
 ## 🖼️ Preview do Layout Proposto
 
-### Versão para Desktop 💻
+### Versão para Desktop 🖥️
 ![Desktop](assets/images/Trilha-de-CSS-01.gif)
 ![Exemplo01](assets/images/exemplo01.png)
 
